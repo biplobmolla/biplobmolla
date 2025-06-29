@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Biplob Molla</h1>
-<h3 align="center">Fullstack Website Developer and competitve programmer</h3>
+<h3 align="center">Fullstack Website and Mobile App Developer.</h3>
 
 - 🌱 I’m currently learning **MERN**
 
